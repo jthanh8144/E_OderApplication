@@ -1,0 +1,10 @@
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\bin\Debug\E_OderApplication.exe.config
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\bin\Debug\E_OderApplication.exe
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\bin\Debug\E_OderApplication.pdb
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.csprojAssemblyReference.cache
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.Form1.resources
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.Properties.Resources.resources
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.csproj.GenerateResource.cache
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.csproj.CoreCompileInputs.cache
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.exe
+D:\VS\C#\Winform\E_OderApplication\E_OderApplication\obj\Debug\E_OderApplication.pdb
